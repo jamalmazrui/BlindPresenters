@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blind Presenters"
 subtitle: "42 Creators of Media While Blind or Low Vision"
 author: "Jamal Mazrui"
