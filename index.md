@@ -11,8 +11,6 @@ abstract: "A directory of 42 blind or low-vision leaders in time-based media: po
 keywords: [blindness, blind presenters, low vision, accessibility, podcast, keynote, video, broadcast]
 ---
 
-# Blind Presenters
-
 This directory lists 42 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). Two related directories list works rather than people: [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
