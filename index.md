@@ -1,6 +1,6 @@
 ---
 title: "Blind Presenters"
-subtitle: "42 Creators of Media While Blind or Low Vision"
+subtitle: "A Directory of 42 Creators of Media While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v1.17.1"
@@ -31,6 +31,7 @@ This directory is English-language in scope: it relies on talks, recordings, and
 
 ## Table of Contents
 
+- [By the Numbers](#by-the-numbers)
 - [Kirk Adams](#pres-adams)
 - [Jeff Bishop](#pres-bishop)
 - [Molly Burke](#pres-burke)
@@ -74,6 +75,11 @@ This directory is English-language in scope: it relies on talks, recordings, and
 - [Peter White](#pres-white)
 - [David Woodbridge](#pres-woodbridge)
 - [Media by Type](#media-by-type)
+
+## By the Numbers {#by-the-numbers}
+
+- 58 presentations by 42 presenters.
+- The most common kind is podcasts and audio, with 25 presentations; 5 kinds in all.
 
 ## Presenters (Alphabetical by Last Name)
 
