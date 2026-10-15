@@ -1,6 +1,9 @@
 ---
 title: "Blind Presenters"
 subtitle: "A Directory of 46 Creators of Media While Blind or Low Vision"
+description: "A directory of people who are blind or have low vision and lead in podcasts, talks, video, broadcast, and film, with up to three of their own presentations each."
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v1.19.0"
@@ -28,6 +31,8 @@ Up to three works are shown per presenter, and each entry ends with a "Profiles:
 Presenters are listed alphabetically by last name, with the works grouped by type in an appendix.
 
 This directory is English-language in scope: it relies on talks, recordings, and sources that can be followed in English. Blind presenters who work in other languages are not represented here.
+
+Each listed presentation belongs to its creator. This directory's own text and arrangement are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Table of Contents
 
