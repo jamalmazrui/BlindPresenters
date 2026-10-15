@@ -1,17 +1,17 @@
 ---
 title: "Blind Presenters"
-subtitle: "A Directory of 44 Creators of Media While Blind or Low Vision"
+subtitle: "A Directory of 46 Creators of Media While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.18.0"
+version: "v1.19.0"
 lang: "en-US"
 toc: true
 toc-depth: 3
-abstract: "A directory of 44 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
+abstract: "A directory of 46 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
 keywords: [blindness, blind presenters, low vision, accessibility, podcast, keynote, video, broadcast]
 ---
 
-This directory lists 44 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
+This directory lists 46 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). Two related directories list works rather than people: [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
 
@@ -57,6 +57,7 @@ This directory is English-language in scope: it relies on talks, recordings, and
 - [George Kerscher](#pres-kerscher)
 - [Daniel Kish](#pres-kish)
 - [Pete Lane](#pres-lane)
+- [Andre "Onj" Louis](#pres-louis)
 - [Jonathan Mosen](#pres-mosen)
 - [Dave Nason](#pres-nason)
 - [Chris Nova](#pres-nova-chris)
@@ -65,6 +66,7 @@ This directory is English-language in scope: it relies on talks, recordings, and
 - [Chris Peterson](#pres-peterson)
 - [Shaun Preece](#pres-preece)
 - [Mika Pyyhkala](#pres-pyyhkala)
+- [Desiree Renae](#pres-renae)
 - [Mark Riccobono](#pres-riccobono)
 - [Lisa Salinger](#pres-salinger)
 - [Fredric K. Schroeder](#pres-schroeder)
@@ -80,8 +82,8 @@ This directory is English-language in scope: it relies on talks, recordings, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 62 presentations by 44 presenters.
-- The most common kind is podcasts and audio, with 26 presentations; 5 kinds in all.
+- 68 presentations by 46 presenters.
+- The most common kind is podcasts and audio, with 29 presentations; 5 kinds in all.
 
 ## Presenters (Alphabetical by Last Name)
 
@@ -303,6 +305,19 @@ Profiles: [Blind Abilities](https://blindabilities.com/)
 #### [Blind Abilities demo series](https://blindabilities.com/) {#work-lane-demos}
 His solo tutorial series for blind users, including the GarageBand, Amadeus Pro, and iPhone 101 VoiceOver series, demonstrating Mac and iOS tools step by step.
 
+### Andre "Onj" Louis {#pres-louis}
+Totally blind since birth, a London musician, producer and YouTube creator who teaches blind students music production and shows accessible music technology in webinars, videos and talks.
+Profiles: [GitHub](https://github.com/OnjLouis), [Patreon](https://www.patreon.com/OnjMusic), [Website](https://onj.me/)
+
+#### [Video Guide to Accessibility in Ableton Move with Move Everything (2026)](https://cdm.link/tag/andre-louis/) {#work-louis-move-everything}
+His video tour of Move Everything, which adds an optional screen reader to Ableton's standalone Move groovebox, published by CDM.
+
+#### [Using VOCR to Access Music Software on macOS](https://www.youtube.com/watch?v=tq8yOk2V-SU) {#work-louis-vocr}
+His Sound Without Sight webinar on setting up VOCR and using it to reach the visual controls of Logic Pro and other music software.
+
+#### [How Visually Impaired Music Producers Make Awesome Music](https://www.semmuk.com/post/how-visually-impaired-music-producers-make-awesome-music-with-andre-louis-aka-onj) {#work-louis-supajam}
+His live video podcast for SupaJam students, showing his setup for live performance and making music from their prompts.
+
 ### Jonathan Mosen {#pres-mosen}
 A broadcaster and author of technology guides.
 Profiles: [Website](https://mosen.org/)
@@ -366,6 +381,19 @@ A VIBUG talk and demonstration on choosing and using smart locks as a blind user
 
 #### [Getting COVID-19 Tests (2021)](http://www.vibug.org/audio/vbg1221-covid19-testing.mp3) {#work-pyyhkala-covid}
 A VIBUG talk on the ways to obtain COVID-19 tests, including home kits, and the technology and accessibility problems each one poses.
+
+### Desiree Renae {#pres-renae}
+A blind technology trainer who demonstrates screen readers, apps and devices from a blind user's perspective in her Learning Blind Tech podcast and her Learning Blind Tech calls on ACB Media.
+Profiles: [Podcast](https://podcast.show/3562447/)
+
+#### [Learning Blind Tech: Learning Together (2026)](https://acbmedia.org/2026/03/06/20260306-learning-blind-tech-with-desiree-renae/) {#work-renae-learning-together}
+Her ACB Media call in a new format, where participants bring questions and tips and learn the technology together.
+
+#### [Learning Blind Tech: Catching Up and Windows Narrator Basics (2025)](https://acbmedia.org/2025/09/12/20250912-learning-blind-tech-with-desiree-renae/) {#work-renae-narrator}
+Her ACB Media call answering listeners' questions and talking through the basics of Windows Narrator.
+
+#### [Voices, Voices, Voices: iOS 18 (2024)](https://blubrry.com/3562447/137656013) {#work-renae-ios18-voices}
+Her podcast episode on creating a Personal Voice with VoiceOver and choosing voices in the VoiceOver rotor.
 
 ### Mark Riccobono {#pres-riccobono}
 President of the National Federation of the Blind since 2014 and himself blind; in 2011 he became the first blind person to drive a street vehicle in public using nonvisual technology.
@@ -470,6 +498,8 @@ The same works grouped by kind, ordered by title within each group.
 - [Jeff Bishop Discusses iOS 18 and Its AI and Accessibility Features (2025)](#work-bishop-ios18) — Jeff Bishop
 - [Jeff Bishop Discusses Microsoft Edge, Part 2 (2025)](#work-bishop-edge) — Jeff Bishop
 - [Jeff Bishop Discusses the GLOW Accessibility Toolkit (2026)](#work-bishop-glow) — Jeff Bishop
+- [Learning Blind Tech: Catching Up and Windows Narrator Basics (2025)](#work-renae-narrator) — Desiree Renae
+- [Learning Blind Tech: Learning Together (2026)](#work-renae-learning-together) — Desiree Renae
 - [Mystic Access audio tutorials](#work-salinger) — Lisa Salinger
 - [Mystic Access audio tutorials and podcast](#work-kim-nova) — Kim Nova
 - [The Mystic Access Podcast (2007)](#work-mystic-access-podcast) — Chris Nova
@@ -480,14 +510,17 @@ The same works grouped by kind, ordered by title within each group.
 - [The Tony Gebhard Show](#work-tony-gebhard-show) — Tony Gebhard
 - [Tuesday Topics](#work-tuesday-topics) — Paul Edwards
 - [Unstoppable Mindset](#work-unstoppable-mindset) — Michael Hingson
+- [Voices, Voices, Voices: iOS 18 (2024)](#work-renae-ios18-voices) — Desiree Renae
 
 ### Video and online series {#type-videoandonlinese}
 - [The Blind Film Critic (2011)](#work-blind-film-critic) — Tommy Edison
 - [The Blind Life (2013)](#work-blind-life) — Sam Seavey
 - [Cooking and Baking with Low Vision](#work-erickson-cooking-baking) — Debra Erickson
+- [How Visually Impaired Music Producers Make Awesome Music](#work-louis-supajam) — Andre "Onj" Louis
 - [Know Before You Buy (2021)](#work-greco-kbyb) — Lucy Greco
 - [Lucy Edwards](#work-lucy-edwards) — Lucy Edwards
 - [Molly Burke](#work-molly-burke) — Molly Burke
+- [Video Guide to Accessibility in Ableton Move with Move Everything (2026)](#work-louis-move-everything) — Andre "Onj" Louis
 
 ### Television and film {#type-televisionandfil}
 - [MasterChef (2012)](#work-masterchef) — Christine Ha
@@ -516,6 +549,7 @@ The same works grouped by kind, ordered by title within each group.
 - [Opening Keynote, Digital Publishing Summit (2024)](#work-kerscher-dpub) — George Kerscher
 - [Putting News First: Breaking Down Stereotypes as a Blind Journalist (2016)](#work-odonoghue-nfb) — Gary O'Donoghue
 - [Tools and Techniques to Conquer the 4 Fears of Cooking with Vision Loss (2026)](#work-erickson-four-fears) — Debra Erickson
+- [Using VOCR to Access Music Software on macOS](#work-louis-vocr) — Andre "Onj" Louis
 - [The World Blind Union: Future Challenges and Opportunities (2016)](#work-schroeder-wbu) — Fredric K. Schroeder
 
 ### Broadcast {#type-broadcast}
