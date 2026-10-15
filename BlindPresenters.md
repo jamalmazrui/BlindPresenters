@@ -1,17 +1,17 @@
 ---
 title: "Blind Presenters"
-subtitle: "A Directory of 42 Creators of Media While Blind or Low Vision"
+subtitle: "A Directory of 44 Creators of Media While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.17.1"
+version: "v1.18.0"
 lang: "en-US"
 toc: true
 toc-depth: 3
-abstract: "A directory of 42 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
+abstract: "A directory of 44 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
 keywords: [blindness, blind presenters, low vision, accessibility, podcast, keynote, video, broadcast]
 ---
 
-This directory lists 42 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
+This directory lists 44 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). Two related directories list works rather than people: [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
 
@@ -41,6 +41,8 @@ This directory is English-language in scope: it relies on talks, recordings, and
 - [Tommy "The Blind Film Critic" Edison](#pres-edison)
 - [Lucy Edwards](#pres-edwards)
 - [Paul Edwards](#pres-edwards-paul)
+- [Ricky Enger](#pres-enger)
+- [Debra Erickson](#pres-erickson)
 - [Chancey Fleet](#pres-fleet)
 - [Chad E. Foster](#pres-foster)
 - [Tony Gebhard](#pres-gebhard)
@@ -78,8 +80,8 @@ This directory is English-language in scope: it relies on talks, recordings, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 58 presentations by 42 presenters.
-- The most common kind is podcasts and audio, with 25 presentations; 5 kinds in all.
+- 62 presentations by 44 presenters.
+- The most common kind is podcasts and audio, with 26 presentations; 5 kinds in all.
 
 ## Presenters (Alphabetical by Last Name)
 
@@ -155,6 +157,26 @@ Profiles: [ACB Media](https://www.acbmedia.org/)
 
 #### [Tuesday Topics](https://www.acbmedia.org/category/tt/) {#work-tuesday-topics}
 Host of a regular ACB Media Network podcast that explores a single topic from a blindness perspective in depth each week, featuring panelists and live questions from the audience.
+
+### Ricky Enger {#pres-enger}
+Born completely blind, the director of practical help at Hadley and host of its long-running podcast Hadley Presents, where she talks with experts and fellow learners about living well with vision loss.
+Profiles: [Podcast](https://hadleyhelps.org/podcasts/hadley-presents)
+
+#### [Hadley Presents: A Conversation with the Experts](https://hadleyhelps.org/podcasts/hadley-presents) {#work-enger-hadley-presents}
+Her podcast for Hadley, with more than 160 episodes, on daily living, technology, and adjusting to vision loss, often with practical tips from the Hadley community.
+
+### Debra Erickson {#pres-erickson}
+A blind chef, blind from retinitis pigmentosa, who founded The Blind Kitchen and teaches cooking without sight in webinars, convention sessions, and videos for blindness organizations.
+Profiles: [LinkedIn](https://www.linkedin.com/in/debra-erickson-the-blind-kitchen/), [Website](https://theblindkitchen.com/)
+
+#### [Tools and Techniques to Conquer the 4 Fears of Cooking with Vision Loss (2026)](https://youtu.be/kS1wLnVObkw) {#work-erickson-four-fears}
+Her program for the American Council of the Blind of Virginia and the Foundation Fighting Blindness on managing the fears of cutting, burning, embarrassment, and undercooked food.
+
+#### [The Blind Kitchen with the Alliance on Aging and Vision Loss (2025)](https://acbmedia.org/2025/08/25/20250825-aavl-and-the-blind-kitchen/) {#work-erickson-aavl}
+Her ACB Media session on how she started The Blind Kitchen and on kitchen tips for older adults with vision loss.
+
+#### [Cooking and Baking with Low Vision](https://www.youtube.com/watch?v=tBBUWTSDsTk) {#work-erickson-cooking-baking}
+Her video for the Prevention of Blindness Society on tools and techniques for cooking and baking safely without relying on sight.
 
 ### Chancey Fleet {#pres-fleet}
 Blind tech educator and the founding Assistive Technology Coordinator at the New York Public Library's Andrew Heiskell Braille and Talking Book Library; a 2017 Library Journal Mover and Shaker who speaks widely on blindness, accessibility, and equity in the digital commons.
@@ -443,6 +465,7 @@ The same works grouped by kind, ordered by title within each group.
 - [Blind Abilities demo series](#work-lane-demos) — Pete Lane
 - [The Blind Chick](#work-blind-chick) — Penn Street
 - [Getting COVID-19 Tests (2021)](#work-pyyhkala-covid) — Mika Pyyhkala
+- [Hadley Presents: A Conversation with the Experts](#work-enger-hadley-presents) — Ricky Enger
 - [iSee — Using Various Technologies from a Blind Person's Perspective (2012)](#work-isee) — David Woodbridge
 - [Jeff Bishop Discusses iOS 18 and Its AI and Accessibility Features (2025)](#work-bishop-ios18) — Jeff Bishop
 - [Jeff Bishop Discusses Microsoft Edge, Part 2 (2025)](#work-bishop-edge) — Jeff Bishop
@@ -461,6 +484,7 @@ The same works grouped by kind, ordered by title within each group.
 ### Video and online series {#type-videoandonlinese}
 - [The Blind Film Critic (2011)](#work-blind-film-critic) — Tommy Edison
 - [The Blind Life (2013)](#work-blind-life) — Sam Seavey
+- [Cooking and Baking with Low Vision](#work-erickson-cooking-baking) — Debra Erickson
 - [Know Before You Buy (2021)](#work-greco-kbyb) — Lucy Greco
 - [Lucy Edwards](#work-lucy-edwards) — Lucy Edwards
 - [Molly Burke](#work-molly-burke) — Molly Burke
@@ -472,6 +496,7 @@ The same works grouped by kind, ordered by title within each group.
 - [Accessibility Baked In: Publishing, Accessibility, and W3C Standards (2020)](#work-kerscher-w3c) — George Kerscher
 - [Achieving an Accessibility Policy at the University of California (2014)](#work-greco-csun) — Lucy Greco
 - [The Blind in the World: Leadership, Philosophy, and Action on a Global Scale (2016)](#work-schroeder-leadership) — Fredric K. Schroeder
+- [The Blind Kitchen with the Alliance on Aging and Vision Loss (2025)](#work-erickson-aavl) — Debra Erickson
 - [A Blind Man's Path to Opportunity (TEDxYpsilanti)](#work-grandstaff-tedx) — Jeremy Grandstaff
 - [The Blind of the World: Spreading the Federation Message (2015)](#work-schroeder-spreading) — Fredric K. Schroeder
 - [Brian Hartgen Talks All Things ElBraille](#work-hartgen-elbraille) — Brian Hartgen
@@ -490,6 +515,7 @@ The same works grouped by kind, ordered by title within each group.
 - [National Convention Banquet Addresses](#work-riccobono-banquet) — Mark Riccobono
 - [Opening Keynote, Digital Publishing Summit (2024)](#work-kerscher-dpub) — George Kerscher
 - [Putting News First: Breaking Down Stereotypes as a Blind Journalist (2016)](#work-odonoghue-nfb) — Gary O'Donoghue
+- [Tools and Techniques to Conquer the 4 Fears of Cooking with Vision Loss (2026)](#work-erickson-four-fears) — Debra Erickson
 - [The World Blind Union: Future Challenges and Opportunities (2016)](#work-schroeder-wbu) — Fredric K. Schroeder
 
 ### Broadcast {#type-broadcast}
