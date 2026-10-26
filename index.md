@@ -1,6 +1,6 @@
 ---
 title: "Blind Presenters"
-subtitle: "A Directory of 46 Creators of Media While Blind or Low Vision"
+subtitle: "A Directory of 47 Creators of Media While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and lead in podcasts, talks, video, broadcast, and film, with up to three of their own presentations each."
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -10,11 +10,11 @@ version: "v1.19.0"
 lang: "en-US"
 toc: true
 toc-depth: 3
-abstract: "A directory of 46 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
+abstract: "A directory of 47 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
 keywords: [blindness, blind presenters, low vision, accessibility, podcast, keynote, video, broadcast]
 ---
 
-This directory lists 46 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
+This directory lists 47 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). Two related directories list works rather than people: [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
 
@@ -80,6 +80,7 @@ Each listed presentation belongs to its creator. This directory's own text and a
 - [Penn Street](#pres-street)
 - [Jeff Thompson](#pres-thompson)
 - [Larry Turnbull (d. 2020)](#pres-turnbull)
+- [Léonie Watson](#pres-watson)
 - [Erik Weihenmayer](#pres-weihenmayer)
 - [Peter White](#pres-white)
 - [David Woodbridge](#pres-woodbridge)
@@ -87,7 +88,7 @@ Each listed presentation belongs to its creator. This directory's own text and a
 
 ## By the Numbers {#by-the-numbers}
 
-- 68 presentations by 46 presenters.
+- 71 presentations by 47 presenters.
 - The most common kind is podcasts and audio, with 29 presentations; 5 kinds in all.
 
 ## Presenters (Alphabetical by Last Name)
@@ -461,6 +462,19 @@ Profiles: [Biography](https://www.acb.org/memoriam-lawrence-w-turnbull)
 #### [Handy Around the House](https://www.acbmedia.org/) {#work-turnbull-handy}
 His own ACB Radio show sharing home-repair and maintenance tips for blind and low-vision listeners.
 
+### Léonie Watson {#pres-watson}
+Co-founder and Director of TetraLogical, Chair of the W3C Board of Directors and co-chair of the W3C Web Applications Working Group, who has worked on the web since 1997, losing her sight along the way; based in Bristol, England.
+Profiles: [Website](https://tink.uk/), [LinkedIn](https://linkedin.com/in/lwatson), [Mastodon](https://w3c.social/@tink)
+
+#### [There Is No Spoon (2025)](https://beyondtellerrand.com/events/dusseldorf-2025/speakers/leonie-watson) {#work-watson-spoon}
+A beyond tellerrand keynote in Düsseldorf on generative AI and accessibility: its errors and ethical costs, and what image and video description have opened up for blind people.
+
+#### [Bag of Spanners (2022)](https://beyondtellerrand.com/events/dusseldorf-2022/speakers/leonie-watson) {#work-watson-spanners}
+A beyond tellerrand talk on how screen readers get role, name and state from the browser, and how to build accessible components with HTML and ARIA.
+
+#### [I, Human (2018)](https://beyondtellerrand.com/events/berlin-2018/speakers/leonie-watson) {#work-watson-human}
+A talk at beyond tellerrand in Berlin, 2018.
+
 ### Erik Weihenmayer {#pres-weihenmayer}
 An adventurer and athlete, the first blind person to summit Mount Everest.
 Profiles: [Website](https://erikweihenmayer.com/), [Wikipedia](https://en.wikipedia.org/wiki/Erik_Weihenmayer)
@@ -533,6 +547,7 @@ The same works grouped by kind, ordered by title within each group.
 ### Talks and keynotes {#type-talksandkeynotes}
 - [Accessibility Baked In: Publishing, Accessibility, and W3C Standards (2020)](#work-kerscher-w3c) — George Kerscher
 - [Achieving an Accessibility Policy at the University of California (2014)](#work-greco-csun) — Lucy Greco
+- [Bag of Spanners (2022)](#work-watson-spanners) — Léonie Watson
 - [The Blind in the World: Leadership, Philosophy, and Action on a Global Scale (2016)](#work-schroeder-leadership) — Fredric K. Schroeder
 - [The Blind Kitchen with the Alliance on Aging and Vision Loss (2025)](#work-erickson-aavl) — Debra Erickson
 - [A Blind Man's Path to Opportunity (TEDxYpsilanti)](#work-grandstaff-tedx) — Jeremy Grandstaff
@@ -544,6 +559,7 @@ The same works grouped by kind, ordered by title within each group.
 - [EPUB 3 and Accessibility, Digital Book Conference (2011)](#work-kerscher-idpf) — George Kerscher
 - [A History of Digital Accessibility](#work-greco-history) — Lucy Greco
 - [How I Use Sonar to Navigate the World (2015)](#work-kish-ted) — Daniel Kish
+- [I, Human (2018)](#work-watson-human) — Léonie Watson
 - [An Introduction to Desktop Mode (2026)](#work-goldfield-desktop) — David Goldfield
 - [An Introduction to Web Browsing on BT Speak and BT Braille (2026)](#work-goldfield-browsing) — David Goldfield
 - [Keynote addresses](#work-girma-keynotes) — Haben Girma
@@ -553,6 +569,7 @@ The same works grouped by kind, ordered by title within each group.
 - [National Convention Banquet Addresses](#work-riccobono-banquet) — Mark Riccobono
 - [Opening Keynote, Digital Publishing Summit (2024)](#work-kerscher-dpub) — George Kerscher
 - [Putting News First: Breaking Down Stereotypes as a Blind Journalist (2016)](#work-odonoghue-nfb) — Gary O'Donoghue
+- [There Is No Spoon (2025)](#work-watson-spoon) — Léonie Watson
 - [Tools and Techniques to Conquer the 4 Fears of Cooking with Vision Loss (2026)](#work-erickson-four-fears) — Debra Erickson
 - [Using VOCR to Access Music Software on macOS](#work-louis-vocr) — Andre "Onj" Louis
 - [The World Blind Union: Future Challenges and Opportunities (2016)](#work-schroeder-wbu) — Fredric K. Schroeder
