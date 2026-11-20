@@ -1,20 +1,20 @@
 ---
 title: "Blind Presenters"
-subtitle: "A Directory of 47 Creators of Media While Blind or Low Vision"
+subtitle: "A Directory of 56 Creators of Media While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and lead in podcasts, talks, video, broadcast, and film, with up to three of their own presentations each."
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
-date: "October 2026"
-version: "v1.19.0"
+date: "November 2026"
+version: "v1.20.0"
 lang: "en-US"
 toc: true
 toc-depth: 3
-abstract: "A directory of 47 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
+abstract: "A directory of 56 blind or low-vision leaders in time-based media: podcasts, talks and keynotes, video, broadcast, and film, all from 2010 onward. Presenters are listed alphabetically by last name with their notable works and a Profiles list."
 keywords: [blindness, blind presenters, low vision, accessibility, podcast, keynote, video, broadcast]
 ---
 
-This directory lists 47 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
+This directory lists 56 people who are blind or have low vision and who lead in time-based media: podcasts, talks and keynotes, video, broadcast, and film. It is meant as a resource for aspiring blind presenters and as a way to find and reach the people listed.
 
 This is one of three companion directories, alongside [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/) and [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). Two related directories list works rather than people: [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
 
@@ -38,8 +38,10 @@ Each listed presentation belongs to its creator. This directory's own text and a
 
 - [By the Numbers](#by-the-numbers)
 - [Kirk Adams](#pres-adams)
+- [Jesse Anderson](#pres-anderson)
 - [Jeff Bishop](#pres-bishop)
 - [Molly Burke](#pres-burke)
+- [Brandon Cole (d. 2024)](#pres-cole)
 - [Anthony Corona](#pres-corona)
 - [Scott Davert](#pres-davert)
 - [Thomas "AnonyMouse" Domville](#pres-domville)
@@ -59,10 +61,13 @@ Each listed presentation belongs to its creator. This directory's own text and a
 - [Alex Hall](#pres-hall)
 - [Brian Hartgen](#pres-hartgen)
 - [Michael Hingson](#pres-hingson)
+- [Satauna Howery](#pres-howery)
 - [George Kerscher](#pres-kerscher)
 - [Daniel Kish](#pres-kish)
 - [Pete Lane](#pres-lane)
 - [Andre "Onj" Louis](#pres-louis)
+- [Fern Lulham](#pres-lulham)
+- [Christine Malec](#pres-malec)
 - [Jonathan Mosen](#pres-mosen)
 - [Dave Nason](#pres-nason)
 - [Chris Nova](#pres-nova-chris)
@@ -71,13 +76,17 @@ Each listed presentation belongs to its creator. This directory's own text and a
 - [Chris Peterson](#pres-peterson)
 - [Shaun Preece](#pres-preece)
 - [Mika Pyyhkala](#pres-pyyhkala)
+- [Thomas Reid](#pres-reid)
 - [Desiree Renae](#pres-renae)
 - [Mark Riccobono](#pres-riccobono)
 - [Lisa Salinger](#pres-salinger)
 - [Fredric K. Schroeder](#pres-schroeder)
 - [Steven Scott](#pres-scott)
 - [Sam Seavey](#pres-seavey)
+- [John "Mac the Movie Guy" Stark](#pres-stark)
+- [Jim Stovall](#pres-stovall)
 - [Penn Street](#pres-street)
+- [Marilee Talkington](#pres-talkington)
 - [Jeff Thompson](#pres-thompson)
 - [Larry Turnbull (d. 2020)](#pres-turnbull)
 - [Léonie Watson](#pres-watson)
@@ -88,8 +97,8 @@ Each listed presentation belongs to its creator. This directory's own text and a
 
 ## By the Numbers {#by-the-numbers}
 
-- 71 presentations by 47 presenters.
-- The most common kind is podcasts and audio, with 29 presentations; 5 kinds in all.
+- 84 presentations by 56 presenters.
+- The most common kind is podcasts and audio, with 33 presentations; 5 kinds in all.
 
 ## Presenters (Alphabetical by Last Name)
 
@@ -99,6 +108,13 @@ Profiles: [Website](https://drkirkadams.com/)
 
 #### [Keynote speaking on disability inclusion and leadership](https://drkirkadams.com/) {#work-adams-keynotes}
 A sought-after keynote speaker at national and international conferences on accessibility, inclusive leadership, and resilience.
+
+### Jesse Anderson {#pres-anderson}
+A legally blind assistive technology specialist in Saint Paul, Minnesota, and a game, technology, and virtual reality accessibility consultant who has presented at the Game Accessibility Conference and Inclusive Design 24.
+Profiles: [YouTube](https://www.youtube.com/@IllegallySighted)
+
+#### [IllegallySighted](https://www.youtube.com/@IllegallySighted) {#work-illegallysighted}
+His YouTube channel on games, technology, and virtual reality from a legally blind, low-vision perspective, with hardware reviews, accessible game spotlights, and iOS app demos.
 
 ### Jeff Bishop {#pres-bishop}
 President of Blind Information Technology Solutions (BITS) and an IT accessibility consultant at the University of Arizona, who has presented assistive-technology topics for the blind community on Tek Talk and at VIBUG since 2020.
@@ -119,6 +135,13 @@ Profiles: [Website](https://www.mollyburkeofficial.com/), [Wikipedia](https://en
 
 #### [Molly Burke](https://www.mollyburkeofficial.com/) {#work-molly-burke}
 A large body of online video and public speaking on lifestyle, advocacy, and life as a blind woman.
+
+### Brandon Cole (d. 2024) {#pres-cole}
+A totally blind, award-winning video game accessibility consultant whose work includes The Last of Us Part I and Part II, and a streamer, podcaster, and voice actor; he died in June 2024.
+Profiles: [Twitch](https://www.twitch.tv/superblindman), [Website](https://www.brandoncole.net/)
+
+#### [superblindman streams and videos](https://www.youtube.com/superblindman) {#work-superblindman}
+His streams of mainstream games, played with plenty of audience interaction and live talk about accessibility, with the recordings on YouTube.
 
 ### Anthony Corona {#pres-corona}
 A podcast host and producer in the blind community.
@@ -284,6 +307,13 @@ Profiles: [LinkedIn](https://www.linkedin.com/in/michaelhingson/), [Website](htt
 #### [Unstoppable Mindset](https://michaelhingson.com/podcast) {#work-unstoppable-mindset}
 His weekly podcast on resilience and inclusion, with more than 440 episodes, alongside 100-plus keynote presentations a year worldwide.
 
+### Satauna Howery {#pres-howery}
+A voice actor, born blind, with more than a decade of work in commercials, e-learning, video games, and audio description narration.
+Profiles: [IMDb](https://www.imdb.com/name/nm9180692/), [Voices](https://www.voices.com/actors/Satauna)
+
+#### [Audio description narration (2021)](https://www.imdb.com/name/nm9180692/) {#work-howery-ad}
+Her credited audio description narration for television and film, including six episodes of Black-ish, the film Things Heard and Seen, and the AFB documentary Possibilities.
+
 ### George Kerscher {#pres-kerscher}
 Blind since his thirties, chief innovations officer of the DAISY Consortium and a longtime leader of the accessible-publishing and EPUB standards community, who coined the term "print disabled."
 Profiles: [DAISY Consortium](https://daisy.org/about-us/achievements/)
@@ -323,6 +353,26 @@ His Sound Without Sight webinar on setting up VOCR and using it to reach the vis
 
 #### [How Visually Impaired Music Producers Make Awesome Music](https://www.semmuk.com/post/how-visually-impaired-music-producers-make-awesome-music-with-andre-louis-aka-onj) {#work-louis-supajam}
 His live video podcast for SupaJam students, showing his setup for live performance and making music from their prompts.
+
+### Fern Lulham {#pres-lulham}
+A UK broadcaster, keynote speaker, audio description narrator, and psychotherapist, born severely visually impaired and now registered blind, who has reported and presented for BBC Radio 4 since 2018.
+Profiles: [Website](https://www.fernlulham.com/)
+
+#### [What Online Dating Looks Like When You're Blind (TEDx)](https://youtu.be/T8VA91rUCMg) {#work-lulham-tedx}
+Her TEDx talk, seen more than 85,000 times, on insecurity, disclosure, and dating as a blind woman, told with humor.
+
+#### [Keynote speaking](https://www.fernlulham.com/) {#work-lulham-keynotes}
+Her keynotes and talks on the emotional side of disability, equality, diversity and inclusion, and resilience.
+
+### Christine Malec {#pres-malec}
+A Toronto arts and culture consultant, musician, and audio describer who lost her sight to retinitis pigmentosa as a teenager and is completely blind.
+Profiles: [Luminato Festival](https://LuminatoFestival.com/artist/ChristineMalec)
+
+#### [Blind Wide Open](https://cnib.ca/en/node/4496?region=gta) {#work-blind-wide-open}
+The CNIB podcast she hosts, exploring how blind Canadians work, play, learn, use technology, support each other, and advocate.
+
+#### [Talk Description to Me](https://podcasts.apple.com/podcast/id1524083725) {#work-talk-description}
+A description-rich conversation podcast she co-hosted with describer J.J. Hunt for more than a hundred episodes.
 
 ### Jonathan Mosen {#pres-mosen}
 A broadcaster and author of technology guides.
@@ -388,6 +438,13 @@ A VIBUG talk and demonstration on choosing and using smart locks as a blind user
 #### [Getting COVID-19 Tests (2021)](http://www.vibug.org/audio/vbg1221-covid19-testing.mp3) {#work-pyyhkala-covid}
 A VIBUG talk on the ways to obtain COVID-19 tests, including home kits, and the technology and accessibility problems each one poses.
 
+### Thomas Reid {#pres-reid}
+An audio producer, voiceover artist, and audio description narrator in East Stroudsburg, Pennsylvania, who lost his sight in 2004.
+Profiles: [Website](https://www.reidmymind.com/)
+
+#### [Reid My Mind Radio (2014)](https://podcasts.apple.com/us/podcast/reidmymindradio/id1109751505) {#work-reid-my-mind}
+His podcast of stories and profiles of people affected by blindness and disability, produced with music and sound design, including the Flipping the Script on Audio Description series.
+
 ### Desiree Renae {#pres-renae}
 A blind technology trainer who demonstrates screen readers, apps and devices from a blind user's perspective in her Learning Blind Tech podcast and her Learning Blind Tech calls on ACB Media.
 Profiles: [Podcast](https://podcast.show/3562447/)
@@ -441,12 +498,39 @@ Profiles: [Podcast](https://theblindlife.podbean.com/)
 #### [The Blind Life (2013)](https://theblindlife.podbean.com/) {#work-blind-life}
 A long-running YouTube channel and podcast of assistive-technology reviews and low-vision tips.
 
+### John "Mac the Movie Guy" Stark {#pres-stark}
+A blind film critic approved by Rotten Tomatoes, reviewing movies since before he lost his sight, and a member of the media committee of the ACB Audio Description Project.
+Profiles: [Rotten Tomatoes](https://www.rottentomatoes.com/critics/john-stark-1), [Website](https://macthemovieguy.com/)
+
+#### [Going In Blind With John Stark (2026)](https://www.audible.co.uk/podcast/Going-In-Blind-With-John-Stark/B0H55FK3QL) {#work-going-in-blind}
+His podcast analyzing and critiquing the audio description of one film per episode.
+
+#### [Mac the Movie Guy](https://www.youtube.com/channel/UCT8prgdVvLZW44eyY2roewQ) {#work-mac-the-movie-guy}
+His YouTube channel of more than 1,000 videos about movies and their audio description.
+
+### Jim Stovall {#pres-stovall}
+A totally blind author, keynote speaker, and president of the Emmy Award-winning Narrative Television Network in Tulsa, Oklahoma.
+Profiles: [Website](https://jimstovall.com/), [Wikipedia](https://en.wikipedia.org/wiki/Jim_Stovall)
+
+#### [Keynote speaking: YES, You Can!](https://www.texasspeakersbureau.com/jim-stovall/) {#work-stovall-keynotes}
+His keynote on achievement, from a speaker who has shared the stage with Colin Powell, Christopher Reeve, Tony Robbins, and Barbara Bush.
+
 ### Penn Street {#pres-street}
 A blind disability advocate and outdoor enthusiast who lost most of her sight at age nine.
 Profiles: [Aftersight](https://aftersight.org/audio-publications/the-blind-chick/), [Spotify](https://open.spotify.com/show/6gfdQ5MEqg0i9uBcVsym1f)
 
 #### [The Blind Chick](https://podcasts.apple.com/us/podcast/the-blind-chick/id1589864901) {#work-blind-chick}
 Aftersight's flagship weekly podcast, with hundreds of episodes sharing the stories of blind and low-vision people, which she hosts.
+
+### Marilee Talkington {#pres-talkington}
+A legally blind actor, writer, and director, the first self-identified legally blind actor cast in a principal role on Broadway, and founder of Access Acting Academy.
+Profiles: [Access Acting Academy](https://www.accessacting.com/), [IMDb](https://www.imdb.com/name/nm3411258), [Website](https://www.marileetalkington.com/)
+
+#### [Authentically Blind on Stage and Screen (2018)](https://nfb.org/images/nfb/publications/bm/bm18/bm1811/bm181103.htm) {#work-talkington-nfb}
+Her address to the 2018 National Federation of the Blind convention on turning obstacles into stepping stones as a blind actor.
+
+#### [Screen roles, including See and New Amsterdam](https://www.imdb.com/name/nm3411258) {#work-talkington-screen}
+Her television and film work, among more than 80 characters she has originated on stage and screen.
 
 ### Jeff Thompson {#pres-thompson}
 The founder and host of the Blind Abilities podcast.
@@ -511,7 +595,9 @@ The same works grouped by kind, ordered by title within each group.
 - [Blind Abilities](#work-blind-abilities) — Jeff Thompson
 - [Blind Abilities demo series](#work-lane-demos) — Pete Lane
 - [The Blind Chick](#work-blind-chick) — Penn Street
+- [Blind Wide Open](#work-blind-wide-open) — Christine Malec
 - [Getting COVID-19 Tests (2021)](#work-pyyhkala-covid) — Mika Pyyhkala
+- [Going In Blind With John Stark (2026)](#work-going-in-blind) — John Stark
 - [Hadley Presents: A Conversation with the Experts](#work-enger-hadley-presents) — Ricky Enger
 - [iSee — Using Various Technologies from a Blind Person's Perspective (2012)](#work-isee) — David Woodbridge
 - [Jeff Bishop Discusses iOS 18 and Its AI and Accessibility Features (2025)](#work-bishop-ios18) — Jeff Bishop
@@ -523,9 +609,11 @@ The same works grouped by kind, ordered by title within each group.
 - [Mystic Access audio tutorials and podcast](#work-kim-nova) — Kim Nova
 - [The Mystic Access Podcast (2007)](#work-mystic-access-podcast) — Chris Nova
 - [Penny Forward Podcast](#work-penny-forward-podcast) — Chris Peterson
+- [Reid My Mind Radio (2014)](#work-reid-my-mind) — Thomas Reid
 - [Shaun of the Shed](#work-shaun-of-the-shed) — Shaun Preece
 - [Smart Locks (2022)](#work-pyyhkala-locks) — Mika Pyyhkala
 - [Sunday Edition](#work-sunday-edition) — Anthony Corona
+- [Talk Description to Me](#work-talk-description) — Christine Malec
 - [The Tony Gebhard Show](#work-tony-gebhard-show) — Tony Gebhard
 - [Tuesday Topics](#work-tuesday-topics) — Paul Edwards
 - [Unstoppable Mindset](#work-unstoppable-mindset) — Michael Hingson
@@ -536,17 +624,23 @@ The same works grouped by kind, ordered by title within each group.
 - [The Blind Life (2013)](#work-blind-life) — Sam Seavey
 - [Cooking and Baking with Low Vision](#work-erickson-cooking-baking) — Debra Erickson
 - [How Visually Impaired Music Producers Make Awesome Music](#work-louis-supajam) — Andre "Onj" Louis
+- [IllegallySighted](#work-illegallysighted) — Jesse Anderson
 - [Know Before You Buy (2021)](#work-greco-kbyb) — Lucy Greco
 - [Lucy Edwards](#work-lucy-edwards) — Lucy Edwards
+- [Mac the Movie Guy](#work-mac-the-movie-guy) — John Stark
 - [Molly Burke](#work-molly-burke) — Molly Burke
+- [superblindman streams and videos](#work-superblindman) — Brandon Cole (d. 2024)
 - [Video Guide to Accessibility in Ableton Move with Move Everything (2026)](#work-louis-move-everything) — Andre "Onj" Louis
 
 ### Television and film {#type-televisionandfil}
+- [Audio description narration (2021)](#work-howery-ad) — Satauna Howery
 - [MasterChef (2012)](#work-masterchef) — Christine Ha
+- [Screen roles, including See and New Amsterdam](#work-talkington-screen) — Marilee Talkington
 
 ### Talks and keynotes {#type-talksandkeynotes}
 - [Accessibility Baked In: Publishing, Accessibility, and W3C Standards (2020)](#work-kerscher-w3c) — George Kerscher
 - [Achieving an Accessibility Policy at the University of California (2014)](#work-greco-csun) — Lucy Greco
+- [Authentically Blind on Stage and Screen (2018)](#work-talkington-nfb) — Marilee Talkington
 - [Bag of Spanners (2022)](#work-watson-spanners) — Léonie Watson
 - [The Blind in the World: Leadership, Philosophy, and Action on a Global Scale (2016)](#work-schroeder-leadership) — Fredric K. Schroeder
 - [The Blind Kitchen with the Alliance on Aging and Vision Loss (2025)](#work-erickson-aavl) — Debra Erickson
@@ -565,13 +659,16 @@ The same works grouped by kind, ordered by title within each group.
 - [Keynote addresses](#work-girma-keynotes) — Haben Girma
 - [Keynote addresses and the No Barriers film](#work-weihenmayer) — Erik Weihenmayer
 - [Keynote speaking](#work-foster-keynotes) — Chad E. Foster
+- [Keynote speaking](#work-lulham-keynotes) — Fern Lulham
 - [Keynote speaking on disability inclusion and leadership](#work-adams-keynotes) — Kirk Adams
+- [Keynote speaking: YES, You Can!](#work-stovall-keynotes) — Jim Stovall
 - [National Convention Banquet Addresses](#work-riccobono-banquet) — Mark Riccobono
 - [Opening Keynote, Digital Publishing Summit (2024)](#work-kerscher-dpub) — George Kerscher
 - [Putting News First: Breaking Down Stereotypes as a Blind Journalist (2016)](#work-odonoghue-nfb) — Gary O'Donoghue
 - [There Is No Spoon (2025)](#work-watson-spoon) — Léonie Watson
 - [Tools and Techniques to Conquer the 4 Fears of Cooking with Vision Loss (2026)](#work-erickson-four-fears) — Debra Erickson
 - [Using VOCR to Access Music Software on macOS](#work-louis-vocr) — Andre "Onj" Louis
+- [What Online Dating Looks Like When You're Blind (TEDx)](#work-lulham-tedx) — Fern Lulham
 - [The World Blind Union: Future Challenges and Opportunities (2016)](#work-schroeder-wbu) — Fredric K. Schroeder
 
 ### Broadcast {#type-broadcast}
